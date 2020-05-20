@@ -1,6 +1,6 @@
 # Starbucks Capstone Project
 
-The project for Udacity's Dtata Scientist Nanodegree Program. 
+The project for Udacity's Data Scientist Nanodegree Program. 
 
 # Overview
 This project contains simulated data that mimics customer behaviour on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offers during certain weeks.
