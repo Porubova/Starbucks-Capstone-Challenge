@@ -43,3 +43,4 @@ Each customer can be given a recommendation, based on their demographic informat
 Udacity for providing a starter code and and Starbucks for the data used by this project.
 
 #### Blog
+[Medium](https://medium.com/@annaporubova/starbucks-capstone-project-offers-recommendation-b7028c5b28d4)
